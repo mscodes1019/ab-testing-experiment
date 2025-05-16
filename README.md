@@ -1,6 +1,6 @@
 # A/B Testing Experiment with Simulated Datasets
 ## Overview
-This project demonstrates an A/B testing workflow using simulated datasets. It includes data loading, experiment simulation, statistical analysis, and visualization components. The goal is to provide a reusable framework for running A/B tests on user events, with code organized to help you extend or modify the experiment.
+This project demonstrates an A/B testing workflow using simulated datasets. It includes data loading, experiment simulation, statistical analysis, and visualization components. The goal is to provide a reusable framework for running A/B tests on user events.
 
 The project simulates user behavior over a period of days, assigns users to experimental groups (control and treatment), and tracks quiz completion outcomes to analyze group effects.
 
